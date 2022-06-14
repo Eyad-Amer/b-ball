@@ -98,7 +98,7 @@ namespace ariel
         }
     }
 
-    // get home team
+    // get home  team
     Team &Game::getHomeTeam() const
     {
         return *home_team;
